@@ -10,7 +10,7 @@ namespace GitTest
     {
         static void Main(string[] args)
         {
-            string name = "hello";
+            string name = "hello1";
         }
     }
 }
